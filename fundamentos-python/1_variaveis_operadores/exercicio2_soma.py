@@ -1,5 +1,7 @@
 # Exercício 2: Somar dois números
 
-a = int(input("Digite um número: "))
-b = int(input("Digite outro número: "))
-print("A soma é:", a + b)
+print('Olá, vamos fazer cálculos?')
+primeiro= int(input('Digite o primeiro número: '))
+segundo= int(input('Digite o segundo número: '))
+soma= primeiro + segundo
+print(f'A soma dos números {primeiro} + {segundo} é igual a: {soma}  ')
