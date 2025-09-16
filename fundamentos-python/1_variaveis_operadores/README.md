@@ -8,4 +8,4 @@ Este repositório contém exercícios práticos de fundamentos de programação 
 - 6_projetos/
 
 ## Autor
-Feito com dedicação por [Seu Nome]
+Feito com dedicação por [Bruna Duarte Ferreira]
