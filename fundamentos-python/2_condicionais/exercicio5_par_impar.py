@@ -1,8 +1,10 @@
 # Exercício 5: Verificar se um número é par ou ímpar
+print('Olá, como vai?')
+número = int(input('Me informe um número que irei lhe dizer se é par ou ímpar: '))
 
-num = int(input("Digite um número: "))
+if número % 2 == 0:
+    print(f"O número {número} é par")
 
-if num % 2 == 0:
-    print("O número é par")
 else:
-    print("O número é ímpar")
+    print(f"o número {número} é ímpar")
+ 
