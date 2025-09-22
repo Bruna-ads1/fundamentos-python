@@ -6,5 +6,5 @@ if número % 2 == 0:
     print(f"O número {número} é par")
 
 else:
-    print(f"o número {número} é ímpar")
+    print(f"o número {número} é ímpar") 
  
